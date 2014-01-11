@@ -1,0 +1,11 @@
+Package: enigma2-skin-metrixhd-bh208
+Version: 20140112-r0
+Description: MetrixHD - BlackHole 2.0.8
+Section: extra
+Priority: optional
+Maintainer: capa
+Architecture: all
+OE: noinfo
+Homepage: www.cw-share.com
+Depends: enigma2(>2.6git20091016)
+Source: noinfo
